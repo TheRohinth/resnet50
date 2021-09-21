@@ -1,0 +1,4 @@
+{
+    "train_csv": "../../dataset/train.csv",
+    "train_data_root_folder": "../../dataset/train/train/"
+}

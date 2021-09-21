@@ -1,3 +1,4 @@
 dataset/
-src/data_prep_files/
+src/data_prep_files/__pycache__/
 src/DL_model_files/__pycache__/
+src/data_prep_files/segregating_classes.py
