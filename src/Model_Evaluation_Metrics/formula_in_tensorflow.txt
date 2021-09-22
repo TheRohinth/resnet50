@@ -1,0 +1,5 @@
+F1      ->      https://www.tensorflow.org/addons/api_docs/python/tfa/metrics/F1Score
+Kappa   ->      https://www.tensorflow.org/addons/api_docs/python/tfa/metrics/CohenKappa
+
+tfa.metrics.F1Score
+tfa.metrics.CohenKappa
